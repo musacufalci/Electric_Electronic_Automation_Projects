@@ -1,3 +1,3 @@
-# Electric_Electronic_Control_Units
+# Electric_Electronic_Automation_Projects
 
 Design by https://www.linkedin.com/in/musacufalci/
