@@ -4,7 +4,7 @@ Automation panels are divided into 4 groups:
 
 - 1) Mechanical Design,
 - 2) Electrical Design,
-- 3) Electronic Hardware and software,
+- 3) Electronic Hardware and software Design,
 - 4) Plan, Scheme and Picture Arrangement.
 
 
