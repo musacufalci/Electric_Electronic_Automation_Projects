@@ -1,6 +1,6 @@
 # Electric Electronic Automation Projects
 
-Basic Electrical Panel Components:
+- Basic Electrical Panel Components:
 - Mounting DIN Rail
 - Circuit Breakers
 - Fuse
